@@ -4,4 +4,4 @@
 
 ## Config
 
-**[Download](https://github.com/codeclubiul/codeclubiul/releases/download/V1/config.seb)**
+**[Download](https://github.com/codeclubiul/codeclubiul/releases/download/V1/Hackathon.seb)**
